@@ -15,5 +15,8 @@ https://t.me/SpaceDogNetwork
 Telegram Announcements: 
 https://t.me/SpaceDog_Announcements
 
+Telegram Russian Chat
+https://t.me/joinchat/WfxzmluFO8wwNWRk
+
 Twitter:
 https://twitter.com/SpaceDogNetwork
