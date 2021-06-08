@@ -1,5 +1,4 @@
-
-// SpaceDog (SPDG) is the best and safest projects in DeFi
+// SpaceDog (SPACED) is the best and safest decentralized Binance Smart Chain project!
 //
 // Website
 // https://SpaceDog.network
@@ -7,11 +6,16 @@
 // Telegram Chat
 // https://t.me/SpaceDogNetwork
 //
+// Telegram RU Chat
+// https://t.me/joinchat/WfxzmluFO8wwNWRk
+//
 // SpaceDog Announcements
 // https://t.me/SpaceDog_Announcements
 //
 // Twitter
 // https://twitter.com/SpaceDogNetwork
+
+
 
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
@@ -712,7 +716,7 @@ contract SpaceDog is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "SpaceDog";
-    string private _symbol = "SPDG";
+    string private _symbol = "SPACED";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 3;
